@@ -29,19 +29,16 @@ Make sure you have the following installed:
 - Node.js
 - npm
 
-Setup
+# Setup
 
-Clone the repository
+- Clone the repository:
 git clone https://github.com/adrianhajdin/gsap_cocktails.git
 cd gsap_cocktails
-
-Install dependencies
+- Install dependencies:
 npm install
-
-Start development server
+- Start development server:
 npm run dev
+- Visit http://localhost:5173 in your browser to view the project.
 
-Visit http://localhost:5173 in your browser to view the project.
-
-Author: Aaditya Dihora
-Built with modern web technologies for an engaging user experience.
+# Author: Aaditya Dihora
+- Built with modern web technologies for an engaging user experience.
