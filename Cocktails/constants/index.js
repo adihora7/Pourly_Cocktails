@@ -21,26 +21,26 @@ const cocktailLists = [
  {
 	name: "Chapel Hill Shiraz",
 	country: "AU",
-	detail: "Battle",
-	price: "$10",
+	detail: "Bottle",
+	price: "$9.99",
  },
  {
 	name: "Caten Malbee",
 	country: "AU",
-	detail: "Battle",
-	price: "$49",
+	detail: "Bottle",
+	price: "$49.5",
  },
  {
 	name: "Rhino Pale Ale",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "$18.95",
  },
  {
 	name: "Irish Guinness",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "$27.99",
  },
 ];
 
@@ -48,26 +48,26 @@ const mockTailLists = [
  {
 	name: "Tropical Bloom",
 	country: "US",
-	detail: "Battle",
-	price: "$10",
+	detail: "Bottle",
+	price: "$7.95",
  },
  {
 	name: "Passionfruit Mint",
 	country: "US",
-	detail: "Battle",
-	price: "$49",
+	detail: "Bottle",
+	price: "$24.5",
  },
  {
 	name: "Citrus Glow",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "$15.75",
  },
  {
 	name: "Lavender Fizz",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "$21.95",
  },
 ];
 
