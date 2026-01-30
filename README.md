@@ -32,12 +32,12 @@ Make sure you have the following installed:
 # Setup 
 
 #If you want to run the Code Locally: 
-- Clone the repository: git clone https://github.com/adrianhajdin/gsap_cocktails.git
-  cd gsap_cocktails
+- Clone the repository: `git clone https://github.com/adihora7/Pourly_Cocktails.git`
+`cd Cocktails`
 - Install dependencies:
-  npm install
+`npm install`
 - Start development server:
-  npm run dev
+`npm run dev`
 - Visit http://localhost:5173 in your browser to view the project.
 
 #If you want to go to my Pourly Cocktails site directly:
